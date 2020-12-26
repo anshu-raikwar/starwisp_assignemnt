@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/starwisp_assignment/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/starwisp_assignment/static/js/main.7774577a.chunk.js",
+    "main.js.map": "/starwisp_assignment/static/js/main.7774577a.chunk.js.map",
+    "runtime-main.js": "/starwisp_assignment/static/js/runtime-main.acac62c4.js",
+    "runtime-main.js.map": "/starwisp_assignment/static/js/runtime-main.acac62c4.js.map",
+    "static/js/2.811db6b8.chunk.js": "/starwisp_assignment/static/js/2.811db6b8.chunk.js",
+    "static/js/2.811db6b8.chunk.js.map": "/starwisp_assignment/static/js/2.811db6b8.chunk.js.map",
+    "static/js/3.2159fcd9.chunk.js": "/starwisp_assignment/static/js/3.2159fcd9.chunk.js",
+    "static/js/3.2159fcd9.chunk.js.map": "/starwisp_assignment/static/js/3.2159fcd9.chunk.js.map",
+    "index.html": "/starwisp_assignment/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/starwisp_assignment/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.811db6b8.chunk.js.LICENSE.txt": "/starwisp_assignment/static/js/2.811db6b8.chunk.js.LICENSE.txt",
+    "static/media/Frame.c747ccc0.png": "/starwisp_assignment/static/media/Frame.c747ccc0.png",
+    "static/media/salesreport.9a793aeb.png": "/starwisp_assignment/static/media/salesreport.9a793aeb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acac62c4.js",
+    "static/js/2.811db6b8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7774577a.chunk.js"
+  ]
+}
